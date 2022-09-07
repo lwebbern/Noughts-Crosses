@@ -13,6 +13,8 @@ displayRow2 = ["-","-","-","2"]
 displayRow3 = ["-","-","-","3"]
 displayRow4 = ["A","B","C"]
 
+amazing = True
+
 realRow1 = [1,1,1]
 realRow2 = [1,1,1]
 realRow3 = [1,1,1]
